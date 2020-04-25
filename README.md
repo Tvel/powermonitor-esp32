@@ -1,4 +1,4 @@
-# UART JavaScript API usage example
+# mongooseos power monitor and control for home use
 
-See comments in the `fs/init.js` source file.
+See config variables in the `fs/init.js` source file.
 
